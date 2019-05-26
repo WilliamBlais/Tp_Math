@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MathWPF.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\App.g.cs
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MathWPF_MarkupCompile.cache
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MathWPF_MarkupCompile.lref
+\\Mac\Home\Documents\School\Math\MathWPF\bin\Debug\MathWPF.exe.config
+\\Mac\Home\Documents\School\Math\MathWPF\bin\Debug\MathWPF.exe
+\\Mac\Home\Documents\School\Math\MathWPF\bin\Debug\MathWPF.pdb
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MathWPF.g.resources
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MathWPF.Properties.Resources.resources
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MathWPF.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MathWPF.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MathWPF.exe
+\\Mac\Home\Documents\School\Math\MathWPF\obj\Debug\MathWPF.pdb
